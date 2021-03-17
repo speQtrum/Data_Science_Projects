@@ -1,2 +1,2 @@
-# Data_Science_Projects
+# Data Science Projects
 This repo is for sample Data Science, Machine Learning projects.
