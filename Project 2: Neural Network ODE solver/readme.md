@@ -1,1 +1,1 @@
-# ODE solver with Neural Network
+## Ordinary Differential Equation solver with Neural Network
